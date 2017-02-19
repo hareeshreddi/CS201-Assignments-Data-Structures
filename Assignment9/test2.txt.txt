@@ -1,0 +1,1039 @@
+# construct empty heap (this is already done in the command interpreter)
+c
+
+# insert 50 items
+i 122
+i 245
+i 491
+i 474
+i 440
+i 372
+i 236
+i 473
+i 438
+i 368
+i 228
+i 457
+i 406
+i 304
+i 100
+i 201
+i 403
+i 298
+i 88
+i 177
+i 355
+i 202
+i 405
+i 302
+i 96
+i 193
+i 387
+i 266
+i 24
+i 49
+i 99
+i 199
+i 399
+i 290
+i 72
+i 145
+i 291
+i 74
+i 149
+i 299
+i 90
+i 181
+i 363
+i 218
+i 437
+i 366
+i 224
+i 449
+i 390
+i 272
+
+# print the entire heap
+S
+
+# do 459 alternating extract mins and inserts quietly
+-
+e
+i 36
+e
+i 73
+e
+i 147
+e
+i 295
+e
+i 82
+e
+i 165
+e
+i 331
+e
+i 154
+e
+i 309
+e
+i 110
+e
+i 221
+e
+i 443
+e
+i 378
+e
+i 248
+e
+i 497
+e
+i 486
+e
+i 464
+e
+i 420
+e
+i 332
+e
+i 156
+e
+i 313
+e
+i 118
+e
+i 237
+e
+i 475
+e
+i 442
+e
+i 376
+e
+i 244
+e
+i 489
+e
+i 470
+e
+i 432
+e
+i 356
+e
+i 204
+e
+i 409
+e
+i 310
+e
+i 112
+e
+i 225
+e
+i 451
+e
+i 394
+e
+i 280
+e
+i 52
+e
+i 105
+e
+i 211
+e
+i 423
+e
+i 338
+e
+i 168
+e
+i 337
+e
+i 166
+e
+i 333
+e
+i 158
+e
+i 317
+e
+i 126
+e
+i 253
+e
+i 507
+e
+i 506
+e
+i 504
+e
+i 500
+e
+i 492
+e
+i 476
+e
+i 444
+e
+i 380
+e
+i 252
+e
+i 505
+e
+i 502
+e
+i 496
+e
+i 484
+e
+i 460
+e
+i 412
+e
+i 316
+e
+i 124
+e
+i 249
+e
+i 499
+e
+i 490
+e
+i 472
+e
+i 436
+e
+i 364
+e
+i 220
+e
+i 441
+e
+i 374
+e
+i 240
+e
+i 481
+e
+i 454
+e
+i 400
+e
+i 292
+e
+i 76
+e
+i 153
+e
+i 307
+e
+i 106
+e
+i 213
+e
+i 427
+e
+i 346
+e
+i 184
+e
+i 369
+e
+i 230
+e
+i 461
+e
+i 414
+e
+i 320
+e
+i 132
+e
+i 265
+e
+i 22
+e
+i 45
+e
+i 91
+e
+i 183
+e
+i 367
+e
+i 226
+e
+i 453
+e
+i 398
+e
+i 288
+e
+i 68
+e
+i 137
+e
+i 275
+e
+i 42
+e
+i 85
+e
+i 171
+e
+i 343
+e
+i 178
+e
+i 357
+e
+i 206
+e
+i 413
+e
+i 318
+e
+i 128
+e
+i 257
+e
+i 6
+e
+i 13
+e
+i 27
+e
+i 55
+e
+i 111
+e
+i 223
+e
+i 447
+e
+i 386
+e
+i 264
+e
+i 20
+e
+i 41
+e
+i 83
+e
+i 167
+e
+i 335
+e
+i 162
+e
+i 325
+e
+i 142
+e
+i 285
+e
+i 62
+e
+i 125
+e
+i 251
+e
+i 503
+e
+i 498
+e
+i 488
+e
+i 468
+e
+i 428
+e
+i 348
+e
+i 188
+e
+i 377
+e
+i 246
+e
+i 493
+e
+i 478
+e
+i 448
+e
+i 388
+e
+i 268
+e
+i 28
+e
+i 57
+e
+i 115
+e
+i 231
+e
+i 463
+e
+i 418
+e
+i 328
+e
+i 148
+e
+i 297
+e
+i 86
+e
+i 173
+e
+i 347
+e
+i 186
+e
+i 373
+e
+i 238
+e
+i 477
+e
+i 446
+e
+i 384
+e
+i 260
+e
+i 12
+e
+i 25
+e
+i 51
+e
+i 103
+e
+i 207
+e
+i 415
+e
+i 322
+e
+i 136
+e
+i 273
+e
+i 38
+e
+i 77
+e
+i 155
+e
+i 311
+e
+i 114
+e
+i 229
+e
+i 459
+e
+i 410
+e
+i 312
+e
+i 116
+e
+i 233
+e
+i 467
+e
+i 426
+e
+i 344
+e
+i 180
+e
+i 361
+e
+i 214
+e
+i 429
+e
+i 350
+e
+i 192
+e
+i 385
+e
+i 262
+e
+i 16
+e
+i 33
+e
+i 67
+e
+i 135
+e
+i 271
+e
+i 34
+e
+i 69
+e
+i 139
+e
+i 279
+e
+i 50
+e
+i 101
+e
+i 203
+e
+i 407
+e
+i 306
+e
+i 104
+e
+i 209
+e
+i 419
+e
+i 330
+e
+i 152
+e
+i 305
+e
+i 102
+e
+i 205
+e
+i 411
+e
+i 314
+e
+i 120
+e
+i 241
+e
+i 483
+e
+i 458
+e
+i 408
+e
+i 308
+e
+i 108
+e
+i 217
+e
+i 435
+e
+i 362
+e
+i 216
+e
+i 433
+e
+i 358
+e
+i 208
+e
+i 417
+e
+i 326
+e
+i 144
+e
+i 289
+e
+i 70
+e
+i 141
+e
+i 283
+e
+i 58
+e
+i 117
+e
+i 235
+e
+i 471
+e
+i 434
+e
+i 360
+e
+i 212
+e
+i 425
+e
+i 342
+e
+i 176
+e
+i 353
+e
+i 198
+e
+i 397
+e
+i 286
+e
+i 64
+e
+i 129
+e
+i 259
+e
+i 10
+e
+i 21
+e
+i 43
+e
+i 87
+e
+i 175
+e
+i 351
+e
+i 194
+e
+i 389
+e
+i 270
+e
+i 32
+e
+i 65
+e
+i 131
+e
+i 263
+e
+i 18
+e
+i 37
+e
+i 75
+e
+i 151
+e
+i 303
+e
+i 98
+e
+i 197
+e
+i 395
+e
+i 282
+e
+i 56
+e
+i 113
+e
+i 227
+e
+i 455
+e
+i 402
+e
+i 296
+e
+i 84
+e
+i 169
+e
+i 339
+e
+i 170
+e
+i 341
+e
+i 174
+e
+i 349
+e
+i 190
+e
+i 381
+e
+i 254
+e
+i 0
+e
+i 1
+e
+i 3
+e
+i 7
+e
+i 15
+e
+i 31
+e
+i 63
+e
+i 127
+e
+i 255
+e
+i 2
+e
+i 5
+e
+i 11
+e
+i 23
+e
+i 47
+e
+i 95
+e
+i 191
+e
+i 383
+e
+i 258
+e
+i 8
+e
+i 17
+e
+i 35
+e
+i 71
+e
+i 143
+e
+i 287
+e
+i 66
+e
+i 133
+e
+i 267
+e
+i 26
+e
+i 53
+e
+i 107
+e
+i 215
+e
+i 431
+e
+i 354
+e
+i 200
+e
+i 401
+e
+i 294
+e
+i 80
+e
+i 161
+e
+i 323
+e
+i 138
+e
+i 277
+e
+i 46
+e
+i 93
+e
+i 187
+e
+i 375
+e
+i 242
+e
+i 485
+e
+i 462
+e
+i 416
+e
+i 324
+e
+i 140
+e
+i 281
+e
+i 54
+e
+i 109
+e
+i 219
+e
+i 439
+e
+i 370
+e
+i 232
+e
+i 465
+e
+i 422
+e
+i 336
+e
+i 164
+e
+i 329
+e
+i 150
+e
+i 301
+e
+i 94
+e
+i 189
+e
+i 379
+e
+i 250
+e
+i 501
+e
+i 494
+e
+i 480
+e
+i 452
+e
+i 396
+e
+i 284
+e
+i 60
+e
+i 121
+e
+i 243
+e
+i 487
+e
+i 466
+e
+i 424
+e
+i 340
+e
+i 172
+e
+i 345
+e
+i 182
+e
+i 365
+e
+i 222
+e
+i 445
+e
+i 382
+e
+i 256
+e
+i 4
+e
+i 9
+e
+i 19
+e
+i 39
+e
+i 79
+e
+i 159
+e
+i 319
+e
+i 130
+e
+i 261
+e
+i 14
+e
+i 29
+e
+i 59
+e
+i 119
+e
+i 239
+e
+i 479
+e
+i 450
+e
+i 392
+e
+i 276
+e
+i 44
+e
+i 89
+e
+i 179
+e
+i 359
+e
+i 210
+e
+i 421
+e
+i 334
+e
+i 160
+e
+i 321
+e
+i 134
+e
+i 269
+e
+i 30
+e
+i 61
+e
+i 123
+e
+i 247
+e
+i 495
+e
+i 482
+e
+i 456
+e
+i 404
+e
+i 300
+e
+i 92
+e
+i 185
+e
+i 371
+e
+i 234
+e
+i 469
+e
+i 430
+e
+i 352
+e
+i 196
+e
+i 393
+e
+i 278
+e
+i 48
+e
+i 97
+e
+i 195
+e
+i 391
+e
+i 274
+e
+i 40
+e
+i 81
+e
+i 163
+e
+i 327
+e
+i 146
+e
+i 293
+e
+i 78
+e
+i 157
+e
+i 315
+
+# do 40 extract mins with print flag on
++
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+# print the remaining heap
+S
+
+# extract the rest
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+
+# attempt to extract min from empty heap
+e
+
+# ene of test
