@@ -1,0 +1,1039 @@
+# create empty heap
+c
+
+# insert 50 items
+i 122
+i 245
+i 491
+i 474
+i 440
+i 372
+i 236
+i 473
+i 438
+i 368
+i 228
+i 457
+i 406
+i 304
+i 100
+i 201
+i 403
+i 298
+i 88
+i 177
+i 355
+i 202
+i 405
+i 302
+i 96
+i 193
+i 387
+i 266
+i 24
+i 49
+i 99
+i 199
+i 399
+i 290
+i 72
+i 145
+i 291
+i 74
+i 149
+i 299
+i 90
+i 181
+i 363
+i 218
+i 437
+i 366
+i 224
+i 449
+i 390
+i 272
+
+# print the entire heap
+S
+
+# do 459 alternating extract mins and inserts quietly
+-
+d
+i 36
+d
+i 73
+d
+i 147
+d
+i 295
+d
+i 82
+d
+i 165
+d
+i 331
+d
+i 154
+d
+i 309
+d
+i 110
+d
+i 221
+d
+i 443
+d
+i 378
+d
+i 248
+d
+i 497
+d
+i 486
+d
+i 464
+d
+i 420
+d
+i 332
+d
+i 156
+d
+i 313
+d
+i 118
+d
+i 237
+d
+i 475
+d
+i 442
+d
+i 376
+d
+i 244
+d
+i 489
+d
+i 470
+d
+i 432
+d
+i 356
+d
+i 204
+d
+i 409
+d
+i 310
+d
+i 112
+d
+i 225
+d
+i 451
+d
+i 394
+d
+i 280
+d
+i 52
+d
+i 105
+d
+i 211
+d
+i 423
+d
+i 338
+d
+i 168
+d
+i 337
+d
+i 166
+d
+i 333
+d
+i 158
+d
+i 317
+d
+i 126
+d
+i 253
+d
+i 507
+d
+i 506
+d
+i 504
+d
+i 500
+d
+i 492
+d
+i 476
+d
+i 444
+d
+i 380
+d
+i 252
+d
+i 505
+d
+i 502
+d
+i 496
+d
+i 484
+d
+i 460
+d
+i 412
+d
+i 316
+d
+i 124
+d
+i 249
+d
+i 499
+d
+i 490
+d
+i 472
+d
+i 436
+d
+i 364
+d
+i 220
+d
+i 441
+d
+i 374
+d
+i 240
+d
+i 481
+d
+i 454
+d
+i 400
+d
+i 292
+d
+i 76
+d
+i 153
+d
+i 307
+d
+i 106
+d
+i 213
+d
+i 427
+d
+i 346
+d
+i 184
+d
+i 369
+d
+i 230
+d
+i 461
+d
+i 414
+d
+i 320
+d
+i 132
+d
+i 265
+d
+i 22
+d
+i 45
+d
+i 91
+d
+i 183
+d
+i 367
+d
+i 226
+d
+i 453
+d
+i 398
+d
+i 288
+d
+i 68
+d
+i 137
+d
+i 275
+d
+i 42
+d
+i 85
+d
+i 171
+d
+i 343
+d
+i 178
+d
+i 357
+d
+i 206
+d
+i 413
+d
+i 318
+d
+i 128
+d
+i 257
+d
+i 6
+d
+i 13
+d
+i 27
+d
+i 55
+d
+i 111
+d
+i 223
+d
+i 447
+d
+i 386
+d
+i 264
+d
+i 20
+d
+i 41
+d
+i 83
+d
+i 167
+d
+i 335
+d
+i 162
+d
+i 325
+d
+i 142
+d
+i 285
+d
+i 62
+d
+i 125
+d
+i 251
+d
+i 503
+d
+i 498
+d
+i 488
+d
+i 468
+d
+i 428
+d
+i 348
+d
+i 188
+d
+i 377
+d
+i 246
+d
+i 493
+d
+i 478
+d
+i 448
+d
+i 388
+d
+i 268
+d
+i 28
+d
+i 57
+d
+i 115
+d
+i 231
+d
+i 463
+d
+i 418
+d
+i 328
+d
+i 148
+d
+i 297
+d
+i 86
+d
+i 173
+d
+i 347
+d
+i 186
+d
+i 373
+d
+i 238
+d
+i 477
+d
+i 446
+d
+i 384
+d
+i 260
+d
+i 12
+d
+i 25
+d
+i 51
+d
+i 103
+d
+i 207
+d
+i 415
+d
+i 322
+d
+i 136
+d
+i 273
+d
+i 38
+d
+i 77
+d
+i 155
+d
+i 311
+d
+i 114
+d
+i 229
+d
+i 459
+d
+i 410
+d
+i 312
+d
+i 116
+d
+i 233
+d
+i 467
+d
+i 426
+d
+i 344
+d
+i 180
+d
+i 361
+d
+i 214
+d
+i 429
+d
+i 350
+d
+i 192
+d
+i 385
+d
+i 262
+d
+i 16
+d
+i 33
+d
+i 67
+d
+i 135
+d
+i 271
+d
+i 34
+d
+i 69
+d
+i 139
+d
+i 279
+d
+i 50
+d
+i 101
+d
+i 203
+d
+i 407
+d
+i 306
+d
+i 104
+d
+i 209
+d
+i 419
+d
+i 330
+d
+i 152
+d
+i 305
+d
+i 102
+d
+i 205
+d
+i 411
+d
+i 314
+d
+i 120
+d
+i 241
+d
+i 483
+d
+i 458
+d
+i 408
+d
+i 308
+d
+i 108
+d
+i 217
+d
+i 435
+d
+i 362
+d
+i 216
+d
+i 433
+d
+i 358
+d
+i 208
+d
+i 417
+d
+i 326
+d
+i 144
+d
+i 289
+d
+i 70
+d
+i 141
+d
+i 283
+d
+i 58
+d
+i 117
+d
+i 235
+d
+i 471
+d
+i 434
+d
+i 360
+d
+i 212
+d
+i 425
+d
+i 342
+d
+i 176
+d
+i 353
+d
+i 198
+d
+i 397
+d
+i 286
+d
+i 64
+d
+i 129
+d
+i 259
+d
+i 10
+d
+i 21
+d
+i 43
+d
+i 87
+d
+i 175
+d
+i 351
+d
+i 194
+d
+i 389
+d
+i 270
+d
+i 32
+d
+i 65
+d
+i 131
+d
+i 263
+d
+i 18
+d
+i 37
+d
+i 75
+d
+i 151
+d
+i 303
+d
+i 98
+d
+i 197
+d
+i 395
+d
+i 282
+d
+i 56
+d
+i 113
+d
+i 227
+d
+i 455
+d
+i 402
+d
+i 296
+d
+i 84
+d
+i 169
+d
+i 339
+d
+i 170
+d
+i 341
+d
+i 174
+d
+i 349
+d
+i 190
+d
+i 381
+d
+i 254
+d
+i 0
+d
+i 1
+d
+i 3
+d
+i 7
+d
+i 15
+d
+i 31
+d
+i 63
+d
+i 127
+d
+i 255
+d
+i 2
+d
+i 5
+d
+i 11
+d
+i 23
+d
+i 47
+d
+i 95
+d
+i 191
+d
+i 383
+d
+i 258
+d
+i 8
+d
+i 17
+d
+i 35
+d
+i 71
+d
+i 143
+d
+i 287
+d
+i 66
+d
+i 133
+d
+i 267
+d
+i 26
+d
+i 53
+d
+i 107
+d
+i 215
+d
+i 431
+d
+i 354
+d
+i 200
+d
+i 401
+d
+i 294
+d
+i 80
+d
+i 161
+d
+i 323
+d
+i 138
+d
+i 277
+d
+i 46
+d
+i 93
+d
+i 187
+d
+i 375
+d
+i 242
+d
+i 485
+d
+i 462
+d
+i 416
+d
+i 324
+d
+i 140
+d
+i 281
+d
+i 54
+d
+i 109
+d
+i 219
+d
+i 439
+d
+i 370
+d
+i 232
+d
+i 465
+d
+i 422
+d
+i 336
+d
+i 164
+d
+i 329
+d
+i 150
+d
+i 301
+d
+i 94
+d
+i 189
+d
+i 379
+d
+i 250
+d
+i 501
+d
+i 494
+d
+i 480
+d
+i 452
+d
+i 396
+d
+i 284
+d
+i 60
+d
+i 121
+d
+i 243
+d
+i 487
+d
+i 466
+d
+i 424
+d
+i 340
+d
+i 172
+d
+i 345
+d
+i 182
+d
+i 365
+d
+i 222
+d
+i 445
+d
+i 382
+d
+i 256
+d
+i 4
+d
+i 9
+d
+i 19
+d
+i 39
+d
+i 79
+d
+i 159
+d
+i 319
+d
+i 130
+d
+i 261
+d
+i 14
+d
+i 29
+d
+i 59
+d
+i 119
+d
+i 239
+d
+i 479
+d
+i 450
+d
+i 392
+d
+i 276
+d
+i 44
+d
+i 89
+d
+i 179
+d
+i 359
+d
+i 210
+d
+i 421
+d
+i 334
+d
+i 160
+d
+i 321
+d
+i 134
+d
+i 269
+d
+i 30
+d
+i 61
+d
+i 123
+d
+i 247
+d
+i 495
+d
+i 482
+d
+i 456
+d
+i 404
+d
+i 300
+d
+i 92
+d
+i 185
+d
+i 371
+d
+i 234
+d
+i 469
+d
+i 430
+d
+i 352
+d
+i 196
+d
+i 393
+d
+i 278
+d
+i 48
+d
+i 97
+d
+i 195
+d
+i 391
+d
+i 274
+d
+i 40
+d
+i 81
+d
+i 163
+d
+i 327
+d
+i 146
+d
+i 293
+d
+i 78
+d
+i 157
+d
+i 315
+
+# do 40 extract mins with print flag on
++
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+
+# print the remaining heap
+S
+
+# extract the rest
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+
+# delete from empty heap
+d
+
+# end of test
