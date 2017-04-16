@@ -1,6 +1,6 @@
 # CS201-Assignments-Data-Structures
-These were the Data Structure Assignments given in my third semester at IIT Guwahati
-The topics covered in the assignments are as follows:
+These were the Data Structure Assignments given in my third semester at IIT Guwahati.<br />
+The topics covered in the assignments are as follows:<br />
 Assignment1--Sorting<br />
 Assignment2--Stack, Queue, Linked list<br />
 Assignment3--Binary Tree<br />
