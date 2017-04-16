@@ -1,13 +1,13 @@
 # CS201-Assignments-Data-Structures
 These were the Data Structure Assignments given in my third semester at IIT Guwahati
 The topics covered in the assignments are as follows:
-Assignment1--Sorting;
-Assignment2--Stack, Queue, Linked list;
-Assignment3--Binary Tree;
-Assignment4--Winner Tree, Sparse Matrices;
-Assignment5--BFS, DFS;
-Assignment6--Graphs, Topological Sort, SCC;
-Assignment7--Disjoint Sets;
-Assignment8--Priority Queue;
-Assignment9--Fibonacci Heaps;
+Assignment1--Sorting<br />
+Assignment2--Stack, Queue, Linked list<br />
+Assignment3--Binary Tree<br />
+Assignment4--Winner Tree, Sparse Matrices<br />
+Assignment5--BFS, DFS<br />
+Assignment6--Graphs, Topological Sort, SCC<br />
+Assignment7--Disjoint Sets<br />
+Assignment8--Priority Queue<br />
+Assignment9--Fibonacci Heaps<br />
 Assignment10--Hashing
