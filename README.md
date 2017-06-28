@@ -6,7 +6,7 @@ Assignment2--Stack, Queue, Linked list<br />
 Assignment3--Binary Tree<br />
 Assignment4--Winner Tree, Sparse Matrices<br />
 Assignment5--BFS, DFS<br />
-Assignment6--Graphs, Topological Sort, SCC<br />
+Assignment6--Graphs, Topological Sort, SCC , MST<br />
 Assignment7--Disjoint Sets<br />
 Assignment8--Priority Queue<br />
 Assignment9--Fibonacci Heaps<br />
